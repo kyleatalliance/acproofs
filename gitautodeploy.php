@@ -1,11 +1,14 @@
 <?php
-const API_KEY = "YOUR API KEY HERE";
+const API_KEY = "jyPj0jFQwJDyjbEUZjQTVI1z3xiIVV";
 const API_URL = "https://api.cloudways.com/api/v1";
-const EMAIL = "YOUR EMAIL GOES HERE";
+const EMAIL = "kyle@alliancecreative.co.uk";
 
 /* examples
-const BranchName = "master";
-const GitUrl = "git@bitbucket.org:user22/repo_name.git";
+const BranchName = "main";
+const GitUrl = "git@github.com:kyleatalliance/acproofs.git";
+
+https://phpstack-331309-5914718.cloudwaysapps.com/gitautodeploy.php?server_id=331309&app_id=5954168&git_url=git@github.com:kyleatalliance/acproofs.git&branch_name=main
+
 */
 
 //Use this function to contact CW API
